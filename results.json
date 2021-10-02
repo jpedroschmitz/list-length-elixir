@@ -1,0 +1,22 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "/Users/joaopedro/elixir/challenges/1-recursao/test/list_lenght_test.exs",
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 passing an empty list"
+    },
+    {
+      "describe": "call/1",
+      "file": "/Users/joaopedro/elixir/challenges/1-recursao/test/list_lenght_test.exs",
+      "line": 5,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 count list elements"
+    }
+  ],
+  "skiped": []
+}
